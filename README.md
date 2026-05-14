@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Rosario</h1>
-<h3 align="center">A passionate Software Engineer from DR</h3>
+<h3 align="center">A passionate AI Engineer from DR</h3>
 
 - 🌱 I’m currently learning **LangChain and Reinforcement Learning**
 
